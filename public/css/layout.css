@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/backgroundhead.jpg) no-repeat top center;
+   background: #161415 url(../images/backgroundhead7.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -52,13 +52,13 @@ header .banner {
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
-   padding-bottom: 30px;s
+   padding-bottom: 30px;
    text-align: center;
 }
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 60px/1.1em 'opensans-bold', sans-serif;
+   font: 60px 'opensans-bold', sans-serif!important;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
