@@ -342,7 +342,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: wordpress 2s ease;
 }
 .css {
-  	width: 90%;
+  	width: 50%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
@@ -371,7 +371,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 50%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
@@ -396,7 +396,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 50%;  }
 }
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }

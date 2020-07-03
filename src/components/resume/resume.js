@@ -8,16 +8,16 @@ export default class header extends Component {
             <div className="row education">
               <div className="three columns header-col">
                 <h1>
-                  <span>Education</span>
+                  <span>Educación</span>
                 </h1>
               </div>
               <div className="nine columns main-col">
                 <div className="row item">
                   <div className="twelve columns">
-                    <h3>University of Life</h3>
+                    <h3>Instituto de Educación Universitaria (IEU)</h3>
                     <p className="info">
-                      Master in Graphic Design <span>•</span>{" "}
-                      <em className="date">April 2007</em>
+                      Ingeniería en software<span>•</span>{" "}
+                      <em className="date">Enero 2020</em>
                     </p>
                     <p>
                       Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
@@ -58,16 +58,16 @@ export default class header extends Component {
             <div className="row work">
               <div className="three columns header-col">
                 <h1>
-                  <span>Work</span>
+                  <span>Trabajo</span>
                 </h1>
               </div>
               <div className="nine columns main-col">
                 <div className="row item">
                   <div className="twelve columns">
-                    <h3>Awesome Design Studio</h3>
+                    <h3>Conektica</h3>
                     <p className="info">
-                      Senior UX Designer <span>•</span>{" "}
-                      <em className="date">March 2010 - Present</em>
+                      Desarrollador web Junior <span>•</span>{" "}
+                      <em className="date">Enero 2020 - Present</em>
                     </p>
                     <p>
                       Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
@@ -124,11 +124,11 @@ export default class header extends Component {
                   <ul className="skills">
                     <li>
                       <span className="bar-expand photoshop" />
-                      <em>Photoshop</em>
+                      <em>Javascript</em>
                     </li>
                     <li>
                       <span className="bar-expand illustrator" />
-                      <em>Illustrator</em>
+                      <em>React</em>
                     </li>
                     <li>
                       <span className="bar-expand wordpress" />
@@ -136,7 +136,7 @@ export default class header extends Component {
                     </li>
                     <li>
                       <span className="bar-expand css" />
-                      <em>CSS</em>
+                      <em>CSS3</em>
                     </li>
                     <li>
                       <span className="bar-expand html5" />
@@ -144,7 +144,7 @@ export default class header extends Component {
                     </li>
                     <li>
                       <span className="bar-expand jquery" />
-                      <em>jQuery</em>
+                      <em>Adobe XD</em>
                     </li>
                   </ul>
                 </div>

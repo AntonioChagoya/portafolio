@@ -35,14 +35,15 @@ export default class header extends Component {
             <br />
             <span>(222)739-0912</span>
             <br />
-            <span>anyone@website.com</span>
+            <span>antonio.chagoya.compras@hotmail.com</span>
           </p>
         </div>
+        <br></br>
         <div className="columns download">
           <p>
             <a href="#" className="button">
               <i className="fa fa-download" />
-              Download Resume
+              Descargar CV
             </a>
           </p>
         </div>
