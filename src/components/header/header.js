@@ -50,22 +50,21 @@ export default class header extends Component {
       <h1 className="responsive-headline">¡Bienvenido!<br></br>¿Quién es Antonio Chagoya?</h1>
       <h3>
         Soy un programador web<span> front-end</span>,{" "}
-        <span>creativo</span> y <span>apasionado</span> creating awesome
-        and effective visual identities for companies of all sizes around the
-        globe. Let's{" "}
+        <span>creativo</span> y <span>apasionado</span>. Ayudo a las personas y empresas
+        con soluciones web para llevar su marca al Top de empresas mexicanas.{" "}
         <a className="smoothscroll" href="#about">
-          start scrolling {" "}
+          Explora mi portafolio{" "}
         </a>
-        and learn more{" "}
+        y aprende más{" "}
         <a className="smoothscroll" href="#about">
-          about me
+          sobre mi trabajo
         </a>
         . 
       </h3>
       <hr />
       <ul className="social">
         <li>
-          <a href="#">
+          <a href="https://www.facebook.com/antonio.chagoya.1/">
             <i className="fa fa-facebook" />
           </a>
         </li>
