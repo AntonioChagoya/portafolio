@@ -90,14 +90,15 @@ export default class header extends Component {
     </div>
     <aside className="four columns footer-widgets">
       <div className="widget widget_contact">
-        <h4>Address and Phone</h4>
+        <h4>Información de contacto</h4>
         <p className="address">
           Jonathan Doe
           <br />
-          1600 Amphitheatre Parkway <br />
-          Mountain View, CA 94043 US
+          Antonio Rodríguez Chagoya
+          <br />Puebla, Pue 72310 MX
+          antonio.chagoya.compras@hotmail.com
           <br />
-          <span>(123) 456-7890</span>
+          <span>(222)739-0912</span>
         </p>
       </div>
       <div className="widget widget_tweets">

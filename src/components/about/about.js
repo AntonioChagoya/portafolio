@@ -41,7 +41,7 @@ export default class header extends Component {
         <br></br>
         <div className="columns download">
           <p>
-            <a href="#" className="button">
+            <a href="/src/antoniocv.pdf" className="button" download="AntonioChagoyaCV">
               <i className="fa fa-download" />
               Descargar CV
             </a>
