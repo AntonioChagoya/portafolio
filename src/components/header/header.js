@@ -63,41 +63,49 @@ export default class header extends Component {
       </h3>
       <hr />
       <ul className="social">
+        
         <li>
           <a href="https://www.facebook.com/antonio.chagoya.1/">
             <i className="fa fa-facebook" />
           </a>
         </li>
+        {/* Ni tengo twitter
         <li>
           <a href="#">
             <i className="fa fa-twitter" />
           </a>
-        </li>
+        </li> */}
+        {/* 
         <li>
           <a href="#">
-            <i className="fa fa-google-plus" />
+            <i className="fa fa-whatsapp" />
           </a>
-        </li>
+        </li> */}
+
         <li>
           <a href="#">
             <i className="fa fa-linkedin" />
           </a>
         </li>
+
         <li>
           <a href="#">
             <i className="fa fa-instagram" />
           </a>
         </li>
+{/*     Tampoco tengo
         <li>
           <a href="#">
             <i className="fa fa-dribbble" />
           </a>
-        </li>
+        </li> */}
+{/*     Esto ya ni sirve
         <li>
           <a href="#">
             <i className="fa fa-skype" />
           </a>
-        </li>
+        </li> */}
+
       </ul>
     </div>
   </div>
