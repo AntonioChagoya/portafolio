@@ -99,7 +99,7 @@ export default class header extends Component {
             <i className="fa fa-dribbble" />
           </a>
         </li> */}
-{/*     Esto ya ni sirve
+{/*     Esto ya ni sirve 
         <li>
           <a href="#">
             <i className="fa fa-skype" />
