@@ -74,8 +74,13 @@ header .banner-text h3 {
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color: #4B7BA6;
 }
+header .banner-text h3 span,
+header .banner-text h3 a:hover{
+   color: #F06000;
+}
+
 header .banner-text hr {
    width: 60%;
    margin: 18px auto 24px auto;
@@ -98,6 +103,7 @@ header .social li {
 header .social li a { color: #fff; }
 header .social li a:hover { color: #11ABB0; }
 
+
 /* scrolldown link */
 header .scrolldown a {
    position: absolute;
@@ -110,7 +116,6 @@ header .scrolldown a {
    width: 42px;
    font-size: 42px;
    line-height: 42px;
-   color: #fff;
    border-radius: 100%;
 
    -webkit-transition: all .3s ease-in-out;
@@ -119,6 +124,8 @@ header .scrolldown a {
    transition: all .3s ease-in-out;
 }
 header .scrolldown a:hover { color: #11ABB0; }
+
+
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -330,39 +337,39 @@ ul#nav li.current a { color: #F06000; }
   	width: 70%;
   	-moz-animation: photoshop 3s ease;
    -webkit-animation: photoshop 3s ease;
-   animation-iteration-count: 15;
+   animation-iteration-count: 3;
 }
 .illustrator {
   	width: 30%;
   	-moz-animation: illustrator 4s ease;
    -webkit-animation: illustrator 4s ease;
-   animation-iteration-count: 15;
+   animation-iteration-count: 2;
 }
 .wordpress {
   	width: 90%;
   	-moz-animation: wordpress 3s ease;
      -webkit-animation: wordpress 3s ease;
-   animation-iteration-count: 15;
+   animation-iteration-count: 3;
 }
 .css {
   	width: 70%;
   	-moz-animation: css 4s ease;
      -webkit-animation: css 4s ease;
-   animation-iteration-count: 15;
+   animation-iteration-count: 3;
      
 }
 .html5 {
   	width: 90%;
   	-moz-animation: html5 3s ease;
      -webkit-animation: html5 3s ease;
-   animation-iteration-count: 15;
+   animation-iteration-count: 3;
      
 }
 .jquery {
   	width: 70%;
   	-moz-animation: jquery 4s ease;
      -webkit-animation: jquery 4s ease;
-   animation-iteration-count: 15;
+   animation-iteration-count: 3;
      
 }
 

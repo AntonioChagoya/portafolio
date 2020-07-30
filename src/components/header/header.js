@@ -49,14 +49,14 @@ export default class header extends Component {
     <div className="banner-text">
       <h1 className="responsive-headline">¡Bienvenido!<br></br>¿Listo para estrenar página web?</h1>
       <h3>
-        ¡Hola! Soy Antonio Chagoya, un programador web<span> front-end</span>,{" "}
-        <span>creativo</span> y <span>ágil</span>. Me dedico a ayudar a las personas y empresas
-        con soluciones web. Desde el mantenimiento y admnistración de tu sitio hasta el{" "}
-        <a className="smoothscroll" href="#portfolio">
-        desarrollo completo de una página informativa{" "}
+        ¡Hola! Soy Antonio Chagoya, un programador web front-end,{" "}
+        creativo y ágil. Me dedico a ayudar a las personas y empresas
+        con soluciones web. Desde el mantenimiento y admnistración de tu sitio hasta el desarrollo completo de una página{" "}
+        <a className="smoothscroll" href="#contact">
+         informativa o ecommerce.{" "}
         </a>
         <a className="smoothscroll" href="#portfolio">
-        o ecommerce.
+        ¡Descubre más de mi trabajo!
         </a>
       </h3>
       <hr />
@@ -84,7 +84,7 @@ export default class header extends Component {
         </li> */}
 
         <li>
-          <a href="https://www.instagram.com/antoniolmlchagoya/" targe="_blank">
+          <a href="https://www.instagram.com/antoniolmlchagoya/" target="_blank">
             <i className="fa fa-instagram" />
           </a>
         </li> 
