@@ -32,7 +32,7 @@ header {
    padding-top: 100px;
    position: relative;
    /* height: 800px; */
-   min-height: 500px;
+   /* min-height: 500px; */
    width: 100%;
    background: #161415 url(../images/backgroundhead7.jpg) no-repeat top center;
    background-size: cover !important;
@@ -59,7 +59,7 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 60px 'opensans-bold', sans-serif!important;
+   font: 40px 'opensans-bold', sans-serif!important;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
