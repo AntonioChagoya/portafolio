@@ -31,7 +31,7 @@ body { background: #0f0f0f; }
 header {
    padding-top: 100px;
    position: relative;
-   height: 800px;
+   /* height: 800px; */
    min-height: 500px;
    width: 100%;
    background: #161415 url(../images/backgroundhead7.jpg) no-repeat top center;

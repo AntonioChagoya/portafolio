@@ -14,7 +14,7 @@
     /* header styles
    ------------------------------------------------------------------ */
    header .banner-text h1 {
-      font: 80px/1.1em 'opensans-bold', sans-serif;
+      font: 40px/1.1em 'opensans-bold', sans-serif!important;
       letter-spacing: -1px;
       margin: 0 auto 12px auto;
    }
@@ -29,11 +29,11 @@
    ------------------------------------------------------------------ */
    header .banner { padding-bottom: 12px; }
    header .banner-text h1 {
-      font: 78px/1.1em 'opensans-bold', sans-serif;
+      font: 40px/1.1em 'opensans-bold', sans-serif!important;
       letter-spacing: -1px;      
    }
    header .banner-text h3 {
-      font: 17px/1.9em 'librebaskerville-regular', serif;
+      font: 17px/1.9em 'librebaskerville-regular', serif!important;
       width: 80%;
    }
    header .banner-text hr {
@@ -100,7 +100,7 @@
    /* mobile navigation
    -------------------------------------------------------------------- */
    #nav-wrap {
-      font: 12px 'opensans-bold', sans-serif;
+      font: 2px 'opensans-bold', sans-serif!important;
       background: transparent !important;
       letter-spacing: 1.5px;  
       width: auto;
@@ -351,7 +351,7 @@
    -------------------------------------------------------------------- */
    header .banner { padding-top: 24px; }
    header .banner-text h1 {
-      font: 40px/1.1em 'opensans-bold', sans-serif;      
+      font: 30px/1.1em 'opensans-bold', sans-serif!important;      
       margin: 0 auto 24px auto;
    }
    header .banner-text h3 {
@@ -360,7 +360,7 @@
    }
   
    /* header social links */
-   header .social { font-size: 20px;}
+   header .social { font-size: 22px;}
    header .social li { margin: 0 6px; }
 
    /* footer
