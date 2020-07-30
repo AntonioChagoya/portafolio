@@ -328,33 +328,42 @@ ul#nav li.current a { color: #F06000; }
 
 .photoshop {
   	width: 70%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+  	-moz-animation: photoshop 3s ease;
+   -webkit-animation: photoshop 3s ease;
+   animation-iteration-count: 15;
 }
 .illustrator {
   	width: 30%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+  	-moz-animation: illustrator 4s ease;
+   -webkit-animation: illustrator 4s ease;
+   animation-iteration-count: 15;
 }
 .wordpress {
   	width: 90%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	-moz-animation: wordpress 3s ease;
+     -webkit-animation: wordpress 3s ease;
+   animation-iteration-count: 15;
 }
 .css {
   	width: 70%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
+  	-moz-animation: css 4s ease;
+     -webkit-animation: css 4s ease;
+   animation-iteration-count: 15;
+     
 }
 .html5 {
   	width: 90%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: html5 3s ease;
+     -webkit-animation: html5 3s ease;
+   animation-iteration-count: 15;
+     
 }
 .jquery {
   	width: 70%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+  	-moz-animation: jquery 4s ease;
+     -webkit-animation: jquery 4s ease;
+   animation-iteration-count: 15;
+     
 }
 
 @-moz-keyframes photoshop {

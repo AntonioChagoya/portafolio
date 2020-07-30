@@ -52,11 +52,11 @@ export default class header extends Component {
         ¡Hola! Soy Antonio Chagoya, un programador web<span> front-end</span>,{" "}
         <span>creativo</span> y <span>ágil</span>. Me dedico a ayudar a las personas y empresas
         con soluciones web. Desde el mantenimiento y admnistración de tu sitio hasta el{" "}
-        <a className="smoothscroll" href="#about">
-        desarrollo completo de una {" "}
+        <a className="smoothscroll" href="#portfolio">
+        desarrollo completo de una página informativa{" "}
         </a>
-        <a className="smoothscroll" href="#about">
-        página informativa o ecommerce.
+        <a className="smoothscroll" href="#portfolio">
+        o ecommerce.
         </a>
       </h3>
       <hr />

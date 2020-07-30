@@ -5,7 +5,7 @@ export default class header extends Component {
         <section id="about">
   <div className="row">
     <div className="three columns">
-      <img className="profile-pic" src="images/perfil.png" alt />
+      <img className="profile-pic" src="images/perfil.jpg" alt />
     </div>
     <div className="nine columns main-col">
       <h2>Sobre mi</h2>
