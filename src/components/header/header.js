@@ -47,34 +47,35 @@ export default class header extends Component {
   {/* end #nav-wrap */}
   <div className="row banner">
     <div className="banner-text">
-      <h1 className="responsive-headline">¡Bienvenido!<br></br>¿Quién es Antonio Chagoya?</h1>
+      <h1 className="responsive-headline">¡Bienvenido!<br></br>¿Listo para estrenar página web?</h1>
       <h3>
-        Soy un programador web<span> front-end</span>,{" "}
-        <span>creativo</span> y <span>apasionado</span>. Ayudo a las personas y empresas
-        con soluciones web para llevar su marca al Top de empresas mexicanas.{" "}
+        ¡Hola! Soy Antonio Chagoya, un programador web<span> front-end</span>,{" "}
+        <span>creativo</span> y <span>ágil</span>. Me dedico a ayudar a las personas y empresas
+        con soluciones web. Desde el mantenimiento y admnistración de tu sitio hasta el{" "}
         <a className="smoothscroll" href="#about">
-          Explora mi portafolio{" "}
+        desarrollo completo de una {" "}
         </a>
-        y aprende más{" "}
         <a className="smoothscroll" href="#about">
-          sobre mi trabajo
+        página informativa o ecommerce.
         </a>
-        . 
       </h3>
       <hr />
       <ul className="social">
-        
         <li>
-          <a href="https://www.facebook.com/antonio.chagoya.1/">
+          <a href="https://www.linkedin.com/in/antonio-rodriguez-5212481a7/" target="_blank">
+            <i className="fa fa-linkedin" />
+          </a>
+        </li>
+        <li>
+          <a href="https://www.facebook.com/antonio.chagoya.1/" target="_blank">
             <i className="fa fa-facebook" />
           </a>
         </li>
-        {/* Ni tengo twitter
         <li>
           <a href="#">
             <i className="fa fa-twitter" />
           </a>
-        </li> */}
+        </li> 
         {/* 
         <li>
           <a href="#">
@@ -83,16 +84,10 @@ export default class header extends Component {
         </li> */}
 
         <li>
-          <a href="#">
-            <i className="fa fa-linkedin" />
-          </a>
-        </li>
-
-        <li>
-          <a href="#">
+          <a href="https://www.instagram.com/antoniolmlchagoya/" targe="_blank">
             <i className="fa fa-instagram" />
           </a>
-        </li>
+        </li> 
 {/*     Tampoco tengo
         <li>
           <a href="#">

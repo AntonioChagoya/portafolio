@@ -33,10 +33,10 @@ export default class header extends Component {
                 {/* item end */}
                 <div className="row item">
                   <div className="twelve columns">
-                    <h3>School of Cool Designers</h3>
+                    <h3>Escuela de la vida</h3>
                     <p className="info">
-                      B.A. Degree in Graphic Design <span>•</span>{" "}
-                      <em className="date">March 2003</em>
+                      Conocimiento autodidacta <span>•</span>{" "}
+                      <em className="date">Mayo 1998</em>
                     </p>
                     <p>
                       This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
@@ -67,7 +67,7 @@ export default class header extends Component {
                     <h3>Conektica</h3>
                     <p className="info">
                       Desarrollador web Junior <span>•</span>{" "}
-                      <em className="date">Enero 2020 - Present</em>
+                      <em className="date">Enero 2020 - Presente</em>
                     </p>
                     <p>
                       Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
@@ -83,10 +83,10 @@ export default class header extends Component {
                 {/* item end */}
                 <div className="row item">
                   <div className="twelve columns">
-                    <h3>Super Cool Studio</h3>
+                    <h3>Experiencia Freelance</h3>
                     <p className="info">
-                      UX Designer <span>•</span>{" "}
-                      <em className="date">March 2007 - February 2010</em>
+                      Diseño y desarrollo <span>•</span>{" "}
+                      <em className="date">Enero 2020 - Presente</em>
                     </p>
                     <p>
                       This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
@@ -108,7 +108,7 @@ export default class header extends Component {
             <div className="row skill">
               <div className="three columns header-col">
                 <h1>
-                  <span>Skills</span>
+                  <span>Habilidades</span>
                 </h1>
               </div>
               <div className="nine columns main-col">

@@ -5,21 +5,15 @@ export default class header extends Component {
         <section id="about">
   <div className="row">
     <div className="three columns">
-      <img className="profile-pic" src="images/profilepic.png" alt />
+      <img className="profile-pic" src="images/perfil.png" alt />
     </div>
     <div className="nine columns main-col">
       <h2>Sobre mi</h2>
       <p>
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-        illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-        explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-        odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-        voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum
-        quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam
-        eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
-        voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam
-        corporis suscipit laboriosam.
+        Soy un emprendedor de corazón y mi objetivo es ayudarte a: digitalizar tu negocio, ganar presencia en internet, 
+         vender más productos o conseguir más clientes, y sobre todo ser tu soporte en cuanto a servicios digitales se refiere. 
+         He diseñado páginas web para clientes de diversos sectores y estoy seguro que puedo ayudarte a construir tu marca 
+         en linea.
       </p>
       <div className="row">
         <div className="columns contact-details">
@@ -30,10 +24,10 @@ export default class header extends Component {
             <span>
               {/* 1600 Amphitheatre Parkway */}
               <br />
-              Puebla, Pue 72310 MX
+              Puebla, Pue. México
             </span>
             <br />
-            <span>(222)739-0912</span>
+            <span>(222) 739 0912</span>
             <br />
             <span>antonio.chagoya.compras@hotmail.com</span>
           </p>
