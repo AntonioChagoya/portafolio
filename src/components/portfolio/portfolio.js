@@ -28,7 +28,7 @@ export default class header extends Component {
         <div className="columns portfolio-item">
           <div className="item-wrap">
             <a href="#modal-02" title>
-              <img alt src="images/portfolio/console.jpg" />
+              <img alt src="images/portfolio/metal.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
                   <h5>Console</h5>
@@ -45,7 +45,7 @@ export default class header extends Component {
         <div className="columns portfolio-item">
           <div className="item-wrap">
             <a href="#modal-03" title>
-              <img alt src="images/portfolio/judah.jpg" />
+              <img alt src="images/portfolio/abarrotes.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
                   <h5>Judah</h5>
@@ -62,7 +62,7 @@ export default class header extends Component {
         <div className="columns portfolio-item">
           <div className="item-wrap">
             <a href="#modal-04" title>
-              <img alt src="images/portfolio/into-the-light.jpg" />
+              <img alt src="images/portfolio/seguridad.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
                   <h5>Into The Light</h5>
@@ -79,7 +79,7 @@ export default class header extends Component {
         <div className="columns portfolio-item">
           <div className="item-wrap">
             <a href="#modal-05" title>
-              <img alt src="images/portfolio/farmerboy.jpg" />
+              <img alt src="images/portfolio/dentista.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
                   <h5>Farmer Boy</h5>
@@ -96,7 +96,7 @@ export default class header extends Component {
         <div className="columns portfolio-item">
           <div className="item-wrap">
             <a href="#modal-06" title>
-              <img alt src="images/portfolio/girl.jpg" />
+              <img alt src="images/portfolio/equipo.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
                   <h5>Girl</h5>
@@ -153,7 +153,7 @@ export default class header extends Component {
     <div id="modal-01" className="popup-modal mfp-hide">
       <img
         className="scale-with-grid"
-        src="images/portfolio/modals/m-coffee.jpg"
+        src="images/portfolio/modals/m-panel.jpg"
         alt
       />
       <div className="description-box">
@@ -177,7 +177,7 @@ export default class header extends Component {
     <div id="modal-02" className="popup-modal mfp-hide">
       <img
         className="scale-with-grid"
-        src="images/portfolio/modals/m-console.jpg"
+        src="images/portfolio/modals/m-metal.jpg"
         alt
       />
       <div className="description-box">
@@ -201,7 +201,7 @@ export default class header extends Component {
     <div id="modal-03" className="popup-modal mfp-hide">
       <img
         className="scale-with-grid"
-        src="images/portfolio/modals/m-judah.jpg"
+        src="images/portfolio/modals/m-abarrotes.jpg"
         alt
       />
       <div className="description-box">
@@ -225,7 +225,7 @@ export default class header extends Component {
     <div id="modal-04" className="popup-modal mfp-hide">
       <img
         className="scale-with-grid"
-        src="images/portfolio/modals/m-intothelight.jpg"
+        src="images/portfolio/modals/m-seguridad.jpg"
         alt
       />
       <div className="description-box">
@@ -249,7 +249,7 @@ export default class header extends Component {
     <div id="modal-05" className="popup-modal mfp-hide">
       <img
         className="scale-with-grid"
-        src="images/portfolio/modals/m-farmerboy.jpg"
+        src="images/portfolio/modals/m-dentista.jpg"
         alt
       />
       <div className="description-box">
@@ -273,7 +273,7 @@ export default class header extends Component {
     <div id="modal-06" className="popup-modal mfp-hide">
       <img
         className="scale-with-grid"
-        src="images/portfolio/modals/m-girl.jpg"
+        src="images/portfolio/modals/m-equipo.jpg"
         alt
       />
       <div className="description-box">
