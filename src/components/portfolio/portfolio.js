@@ -14,8 +14,8 @@ export default class header extends Component {
               <img alt src="images/portfolio/panel-solar.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                  <h5>Coffee</h5>
-                  <p>Illustrration</p>
+                  <h5>Bomba solar</h5>
+                  <p>Desarrollo web</p>
                 </div>
               </div>
               <div className="link-icon">
@@ -31,8 +31,8 @@ export default class header extends Component {
               <img alt src="images/portfolio/metal.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                  <h5>Console</h5>
-                  <p>Web Development</p>
+                  <h5>IME Puebla</h5>
+                  <p>Desarrollo web</p>
                 </div>
               </div>
               <div className="link-icon">
@@ -48,8 +48,8 @@ export default class header extends Component {
               <img alt src="images/portfolio/abarrotes.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                  <h5>Judah</h5>
-                  <p>Webdesign</p>
+                  <h5>Abarrote de diseño</h5>
+                  <p>Desarrollo web e-commerce</p>
                 </div>
               </div>
               <div className="link-icon">
@@ -65,8 +65,8 @@ export default class header extends Component {
               <img alt src="images/portfolio/seguridad.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                  <h5>Into The Light</h5>
-                  <p>Photography</p>
+                  <h5>Serpico seguridad</h5>
+                  <p>Diseño y desarrollo web</p>
                 </div>
               </div>
               <div className="link-icon">
@@ -82,8 +82,8 @@ export default class header extends Component {
               <img alt src="images/portfolio/dentista.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                  <h5>Farmer Boy</h5>
-                  <p>Branding</p>
+                  <h5>Mh Kids</h5>
+                  <p>Desarrollo web</p>
                 </div>
               </div>
               <div className="link-icon">
@@ -99,8 +99,8 @@ export default class header extends Component {
               <img alt src="images/portfolio/equipo.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                  <h5>Girl</h5>
-                  <p>Photography</p>
+                  <h5>Gazele</h5>
+                  <p>Catálogo</p>
                 </div>
               </div>
               <div className="link-icon">
