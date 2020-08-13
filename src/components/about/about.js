@@ -10,7 +10,7 @@ export default class header extends Component {
     <div className="nine columns main-col">
       <h2>Sobre mi</h2>
       <p>
-        Soy un emprendedor de corazón y mi objetivo es ayudarte a: digitalizar tu negocio, ganar presencia en internet, 
+        Soy un emprendedor de corazón y mi objetivo es ayudarte a digitalizar tu negocio, ganar presencia en internet, 
          vender más productos o conseguir más clientes, y sobre todo ser tu soporte en cuanto a servicios digitales se refiere. 
          He diseñado páginas web para clientes de diversos sectores y estoy seguro que puedo ayudarte a construir tu marca 
          en linea.
@@ -35,7 +35,7 @@ export default class header extends Component {
         <br></br>
         <div className="columns download">
           <p>
-            <a href="/src/antoniocv.pdf" className="button" download="AntonioChagoyaCV">
+            <a href="/portafolio/src/AntonioRodriguezChagoyaCV.pdf" className="button" download="AntonioRodriguezChagoyaCV.pdf">
               <i className="fa fa-download" />
               Descargar CV
             </a>
