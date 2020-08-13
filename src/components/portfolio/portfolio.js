@@ -15,7 +15,7 @@ export default class header extends Component {
               <div className="overlay">
                 <div className="portfolio-item-meta">
                   <h5>Bomba solar</h5>
-                  <p>Desarrollo web</p>
+                  <p>E-commerce</p>
                 </div>
               </div>
               <div className="link-icon">
@@ -45,11 +45,11 @@ export default class header extends Component {
         <div className="columns portfolio-item">
           <div className="item-wrap">
             <a href="#modal-03" title>
-              <img alt src="images/portfolio/abarrotes.jpg" />
+              <img alt src="images/portfolio/abasto.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                  <h5>Abarrote de diseño</h5>
-                  <p>Desarrollo web e-commerce</p>
+                  <h5>Abasto Deli</h5>
+                  <p>E-commerce</p>
                 </div>
               </div>
               <div className="link-icon">
@@ -100,7 +100,7 @@ export default class header extends Component {
               <div className="overlay">
                 <div className="portfolio-item-meta">
                   <h5>Gazele</h5>
-                  <p>Catálogo</p>
+                  <p>Desarrollo web</p>
                 </div>
               </div>
               <div className="link-icon">
@@ -153,11 +153,11 @@ export default class header extends Component {
     <div id="modal-01" className="popup-modal mfp-hide">
       <img
         className="scale-with-grid"
-        src="images/portfolio/modals/m-panel.jpg"
+        src="images/portfolio/modals/m-panel-solar1.jpg"
         alt
       />
       <div className="description-box">
-        <h4>Coffee Cup</h4>
+        <h4>Bomba solar</h4>
         <p>
           Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
           lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
@@ -165,12 +165,12 @@ export default class header extends Component {
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
-          Branding, Webdesign
+          Desarrollo web, E-commerce
         </span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net">Details</a>
-        <a className="popup-modal-dismiss">Close</a>
+        <a href="http://www.behance.net">Ver</a>
+        <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
     {/* modal-01 End */}
@@ -181,7 +181,7 @@ export default class header extends Component {
         alt
       />
       <div className="description-box">
-        <h4>Console</h4>
+        <h4>IME Puebla</h4>
         <p>
           Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
           lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
@@ -189,23 +189,23 @@ export default class header extends Component {
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
-          Branding, Web Development
+          Página informativa
         </span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net">Details</a>
-        <a className="popup-modal-dismiss">Close</a>
+        <a href="http://www.behance.net">Ver</a>
+        <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
     {/* modal-02 End */}
     <div id="modal-03" className="popup-modal mfp-hide">
       <img
         className="scale-with-grid"
-        src="images/portfolio/modals/m-abarrotes.jpg"
+        src="images/portfolio/modals/m-abasto.jpg"
         alt
       />
       <div className="description-box">
-        <h4>Judah</h4>
+        <h4>Abasto Deli</h4>
         <p>
           Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
           lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
@@ -213,12 +213,12 @@ export default class header extends Component {
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
-          Branding
+          Desarrollo web, E-commerce
         </span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net">Details</a>
-        <a className="popup-modal-dismiss">Close</a>
+        <a href="http://www.behance.net">Ver</a>
+        <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
     {/* modal-03 End */}
@@ -229,7 +229,7 @@ export default class header extends Component {
         alt
       />
       <div className="description-box">
-        <h4>Into the Light</h4>
+        <h4>Serpico seguridad</h4>
         <p>
           Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
           lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
@@ -237,12 +237,12 @@ export default class header extends Component {
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
-          Photography
+          Página informativa, Google Ads
         </span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net">Details</a>
-        <a className="popup-modal-dismiss">Close</a>
+        <a href="http://www.behance.net">Ver</a>
+        <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
     {/* modal-04 End */}
@@ -253,7 +253,7 @@ export default class header extends Component {
         alt
       />
       <div className="description-box">
-        <h4>Farmer Boy</h4>
+        <h4>MH Kids</h4>
         <p>
           Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
           lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
@@ -261,12 +261,12 @@ export default class header extends Component {
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
-          Branding, Webdesign
+          Página informativa
         </span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net">Details</a>
-        <a className="popup-modal-dismiss">Close</a>
+        <a href="http://www.behance.net">Ver</a>
+        <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
     {/* modal-05 End */}
@@ -277,7 +277,7 @@ export default class header extends Component {
         alt
       />
       <div className="description-box">
-        <h4>Girl</h4>
+        <h4>Gazele</h4>
         <p>
           Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
           lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
@@ -285,12 +285,12 @@ export default class header extends Component {
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
-          Photography
+          Página informativa, Catálogo
         </span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net">Details</a>
-        <a className="popup-modal-dismiss">Close</a>
+        <a href="http://www.behance.net">Ver</a>
+        <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
     {/* modal-06 End */}
@@ -313,8 +313,8 @@ export default class header extends Component {
         </span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net">Details</a>
-        <a className="popup-modal-dismiss">Close</a>
+        <a href="http://www.behance.net">Ver</a>
+        <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
     {/* modal-07 End */}
@@ -337,8 +337,8 @@ export default class header extends Component {
         </span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net">Details</a>
-        <a className="popup-modal-dismiss">Close</a>
+        <a href="http://www.behance.net">Ver</a>
+        <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
     {/* modal-01 End */}
