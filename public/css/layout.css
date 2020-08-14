@@ -678,7 +678,7 @@ ul#nav li.current a { color: #F06000; }
    color: #fff;
 }
 #testimonials h1 span { display: block!important; }
-#testimonials .header-col { padding-top: 9px;right: 20px!important; }
+#testimonials .header-col {   padding-top: 9px; }
 #testimonials .header-col h1:before {
    font-family: 'FontAwesome';
    content: "\f10d";
