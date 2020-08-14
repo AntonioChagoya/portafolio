@@ -20,31 +20,20 @@ export default class header extends Component {
                       <em className="date">Enero 2020</em>
                     </p>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-                      commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-                      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-                      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-                      Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-                      aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede
-                      mollis pretium.
+                    Me apasiona mucho la programación desde que la conozco, por eso decidí convertirme en un profesional de esta área estudiando una ingeniería en software, pero eso es solo el comienzo...
                     </p>
                   </div>
                 </div>{" "}
                 {/* item end */}
                 <div className="row item">
                   <div className="twelve columns">
-                    <h3>Escuela de la vida</h3>
+                    <h3>Estudiante solitario</h3>
                     <p className="info">
                       Conocimiento autodidacta <span>•</span>{" "}
-                      <em className="date">Mayo 1998</em>
+                      <em className="date">Siempre</em>
                     </p>
                     <p>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
-                      velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
-                      auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
-                      Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
-                      Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a
-                      ornare odio. Sed non mauris vitae erat
+                    El mundo de la programación es demasiado complejo y cambiante, por esta razón la educación universitaria no es suficiente, una de las habilidades más importantes que debe tener un programador es el deseo de aprender y aceptar el cambio.
                     </p>
                   </div>
                 </div>{" "}
@@ -67,16 +56,10 @@ export default class header extends Component {
                     <h3>Conektica</h3>
                     <p className="info">
                       Desarrollador web Junior <span>•</span>{" "}
-                      <em className="date">Enero 2020 - Presente</em>
+                      <em className="date">Presente</em>
                     </p>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean
-                      commodo ligula eget dolor. Aenean massa. Cum sociis natoque
-                      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-                      Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-                      Nulla consequat massa quis enim. Donec pede justo, fringilla vel,
-                      aliquet nec, vulputate eget, arcu. Nullam dictum felis eu pede
-                      mollis pretium.
+                    ¡Un gran lugar para empezar! Conektica es una agencia creativa orgullosamente poblana con servicios que van desde la producción audio-visual hasta el desarrollo web y marketing digital.
                     </p>
                   </div>
                 </div>{" "}
@@ -89,12 +72,7 @@ export default class header extends Component {
                       <em className="date">Enero 2020 - Presente</em>
                     </p>
                     <p>
-                      This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel
-                      velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum
-                      auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.
-                      Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.
-                      Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a
-                      ornare odio. Sed non mauris vitae erat
+                    También he concluido con éxito proyectos para clientes que me contratan de manera freelance, esto supone una gran ventaja para mis clientes ya que pueden acceder a páginas web profesionales con costos más bajos que los de una agencia y con una calidad equiparable.
                     </p>
                   </div>
                 </div>{" "}
@@ -113,12 +91,7 @@ export default class header extends Component {
               </div>
               <div className="nine columns main-col">
                 <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                  accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-                  illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-                  explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-                  odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-                  voluptatem sequi nesciunt.
+                A pesar de que mi fuerte son los CMS (Sistemas de Manejo de Contenido) como WordPress, se necesitan conocimientos múltiples para crear un proyecto solido y que cumpla con las metas planteadas. 
                 </p>
                 <div className="bars">
                   <ul className="skills">
