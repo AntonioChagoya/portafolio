@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import HubspotForm from 'react-hubspot-form'
 export default class header extends Component {
   render() {
     return (
@@ -11,23 +12,23 @@ export default class header extends Component {
     </div>
     <div className="ten columns">
       <p className="lead">
-        Puedes ponerte en contacto conmigo para obtener una cotización o agendar una cita. <b>Debido al COVID solamente estoy agendando citas por Zoom</b>. Si llenas el siguiente formulario me pondré en contácto contigo lo más pronto posible para resolver tus dudas. 
+        Puedes ponerte en contacto conmigo para obtener una cotización o agendar una cita. <br></br>(Debido al COVID solamente estoy agendando citas por Zoom).<br></br>Si llenas el siguiente formulario me pondré en contácto contigo lo más pronto posible para resolver tus dudas. 
       </p>
     </div>
   </div>
   <div className="row">
     <div className="eight columns">
       {/* form */}
-      {/* 
+     
       <form action method="post" id="contactForm" name="contactForm">
         <fieldset>
           <div>
             <label htmlFor="contactName">
-              Name <span className="required">*</span>
+              Nombre <span className="required">*</span>
             </label>
             <input
               type="text"
-              defaultValue
+              // defaultValue
               size={35}
               id="contactName"
               name="contactName"
@@ -39,17 +40,17 @@ export default class header extends Component {
             </label>
             <input
               type="text"
-              defaultValue
+              // defaultValue
               size={35}
               id="contactEmail"
               name="contactEmail"
             />
           </div>
           <div>
-            <label htmlFor="contactSubject">Subject</label>
+            <label htmlFor="contactSubject">Asunto</label>
             <input
               type="text"
-              defaultValue
+              // defaultValue
               size={35}
               id="contactSubject"
               name="contactSubject"
@@ -57,11 +58,11 @@ export default class header extends Component {
           </div>
           <div>
             <label htmlFor="contactMessage">
-              Message <span className="required">*</span>
+              Mensaje <span className="required">*</span>
             </label>
             <textarea
               cols={50}
-              rows={15}
+              rows={2}
               id="contactMessage"
               name="contactMessage"
               defaultValue={""}
@@ -74,27 +75,14 @@ export default class header extends Component {
             </span>
           </div>
         </fieldset>
-      </form>{" "} */}
-
-      {/* Formulario de Hubspot */}
-      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-      <script>
-      hbspt.forms.create({`
-	    portalId: "8274838",
-      formId: "ef87ada1-440f-401c-8ba1-a869dedda1c7"
-        `});
-      </script>
-      {/* Termina formulario Hubspot*/}
-
-
-
+      </form>{" "} 
       {/* Form End */}
       {/* contact-warning */}
       <div id="message-warning"> Error boy</div>
       {/* contact-success */}
       <div id="message-success">
         <i className="fa fa-check" />
-        Your message was sent, thank you!
+        Tu mensaje ha sido enviado ¡Gracias!
         <br />
       </div>
     </div>
@@ -102,16 +90,16 @@ export default class header extends Component {
       <div className="widget widget_contact">
         <h4>Información de contacto</h4>
         <p className="address">
-          Jonathan Doe
           <br />
           Antonio Rodríguez Chagoya
-          <br />Puebla, Pue 72310 MX
+          <br />Puebla, Pue. México
           antonio.chagoya.compras@hotmail.com
           <br />
           <span>(222)739-0912</span>
         </p>
       </div>
-      <div className="widget widget_tweets">
+      
+      {/* <div className="widget widget_tweets">
         <h4 className="widget-title">Latest Tweets</h4>
         <ul id="twitter">
           <li>
@@ -137,7 +125,7 @@ export default class header extends Component {
             </b>
           </li>
         </ul>
-      </div>
+      </div> */}
     </aside>
   </div>
 </section>

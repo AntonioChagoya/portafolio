@@ -6,6 +6,7 @@ import Portfolio from './components/portfolio/portfolio';
 import Testimonials from  './components/testimonials/testimonials';
 import ContactUs from './components/contactus/contact';
 import Footer from './components/footer/footer';
+import HubspotForm from 'react-hubspot-form'
 class App extends Component {
   render() {
     return (
@@ -17,6 +18,10 @@ class App extends Component {
         <Testimonials />
         <ContactUs />
         <Footer />
+        {/* <HubspotForm 
+        portalId='8274838'
+        formId='ef87ada1-440f-401c-8ba1-a869dedda1c7'
+        /> */}
       </div>
     );
   }

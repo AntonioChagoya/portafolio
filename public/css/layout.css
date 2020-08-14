@@ -15,6 +15,7 @@
    g. Testimonials Section
    h. Contact Section
    i. Footer
+   j. hubspot
 
 ===================================================================== */
 
@@ -676,8 +677,8 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 3px;
    color: #fff;
 }
-#testimonials h1 span { display: none; }
-#testimonials .header-col { padding-top: 9px; }
+#testimonials h1 span { display: block!important; }
+#testimonials .header-col { padding-top: 9px;right: 20px!important; }
 #testimonials .header-col h1:before {
    font-family: 'FontAwesome';
    content: "\f10d";
@@ -1021,3 +1022,4 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+/* Hubspot */

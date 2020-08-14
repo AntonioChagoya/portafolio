@@ -45,8 +45,8 @@ export default class header extends Component {
       <ul className="copyright">
         <li>© Copyright 2014 CeeVee</li>
         <li>
-          Design by{" "}
-          <a title="Styleshout" href="#home">
+          Diseñado por{" "}
+          <a title="Styleshout" href="/#home">
             Antonio Chagoya
           </a>
         </li>

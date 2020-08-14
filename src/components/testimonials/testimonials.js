@@ -7,7 +7,7 @@ export default class header extends Component {
     <div className="row">
       <div className="two columns header-col">
         <h1>
-          <span>Client Testimonials</span>
+          <span>Testimonios</span>
         </h1>
       </div>
       <div className="ten columns flex-container">
