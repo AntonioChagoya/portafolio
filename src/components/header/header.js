@@ -72,7 +72,7 @@ export default class header extends Component {
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="https://twitter.com/AntonioRChagoya">
             <i className="fa fa-twitter" />
           </a>
         </li> 

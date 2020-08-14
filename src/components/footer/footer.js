@@ -12,7 +12,7 @@ export default class header extends Component {
           </a>
         </li>
         <li>
-          <a href="#">
+          <a href="https://twitter.com/AntonioRChagoya">
             <i className="fa fa-twitter" />
           </a>
         </li>
@@ -46,8 +46,8 @@ export default class header extends Component {
         <li>© Copyright 2014 CeeVee</li>
         <li>
           Design by{" "}
-          <a title="Styleshout" href="http://www.styleshout.com/">
-            Styleshout
+          <a title="Styleshout" href="#home">
+            Antonio Chagoya
           </a>
         </li>
       </ul>

@@ -113,7 +113,7 @@ export default class header extends Component {
         <div className="columns portfolio-item">
           <div className="item-wrap">
             <a href="#modal-07" title>
-              <img alt src="images/portfolio/abarrote.jpg" />
+              <img alt src="images/portfolio/abarrote.png" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
                   <h5>Abarrote de diseño</h5>
@@ -193,7 +193,7 @@ export default class header extends Component {
         </span>
       </div>
       <div className="link-box">
-        <a href="https://www.imepuebla.com/">Ver</a>
+        <a href="https://www.imepuebla.com/" target="_blank">Ver</a>
         <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
@@ -217,7 +217,7 @@ export default class header extends Component {
         </span>
       </div>
       <div className="link-box">
-        <a href="https://www.abastodeli.com/">Ver</a>
+        <a href="https://www.abastodeli.com/" target="_blank">Ver</a>
         <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
@@ -241,7 +241,7 @@ export default class header extends Component {
         </span>
       </div>
       <div className="link-box">
-        <a href="https://seguridadserpico.com.mx/">Ver</a>
+        <a href="https://seguridadserpico.com.mx/" target="_blank">Ver</a>
         <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
@@ -265,7 +265,7 @@ export default class header extends Component {
         </span>
       </div>
       <div className="link-box">
-        <a href="https://mhkids.com.mx/">Ver</a>
+        <a href="https://mhkids.com.mx/" target="_blank">Ver</a>
         <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
@@ -289,7 +289,7 @@ export default class header extends Component {
         </span>
       </div>
       <div className="link-box">
-        <a href="https://gazele.com.mx/">Ver</a>
+        <a href="https://gazele.com.mx/" target="_blank">Ver</a>
         <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
@@ -313,7 +313,7 @@ export default class header extends Component {
         </span>
       </div>
       <div className="link-box">
-        <a href="https://abarrotedediseno.mx/">Ver</a>
+        <a href="https://abarrotedediseno.mx/" target="_blank">Ver</a>
         <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
@@ -337,7 +337,7 @@ export default class header extends Component {
         </span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net">Ver</a>
+        <a href="http://www.behance.net" target="_blank">Ver</a>
         <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
