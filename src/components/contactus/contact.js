@@ -11,17 +11,14 @@ export default class header extends Component {
     </div>
     <div className="ten columns">
       <p className="lead">
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-        illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-        explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-        odit aut fugit.
+        Puedes ponerte en contacto conmigo para obtener una cotización o agendar una cita. <b>Debido al COVID solamente estoy agendando citas por Zoom</b>. Si llenas el siguiente formulario me pondré en contácto contigo lo más pronto posible para resolver tus dudas. 
       </p>
     </div>
   </div>
   <div className="row">
     <div className="eight columns">
       {/* form */}
+      {/* 
       <form action method="post" id="contactForm" name="contactForm">
         <fieldset>
           <div>
@@ -77,7 +74,20 @@ export default class header extends Component {
             </span>
           </div>
         </fieldset>
-      </form>{" "}
+      </form>{" "} */}
+
+      {/* Formulario de Hubspot */}
+      <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
+      <script>
+      hbspt.forms.create({`
+	    portalId: "8274838",
+      formId: "ef87ada1-440f-401c-8ba1-a869dedda1c7"
+        `});
+      </script>
+      {/* Termina formulario Hubspot*/}
+
+
+
       {/* Form End */}
       {/* contact-warning */}
       <div id="message-warning"> Error boy</div>
