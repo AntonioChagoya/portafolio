@@ -69,7 +69,7 @@ export default class header extends Component {
             />
           </div>
           <div>
-            <button className="submit">Submit</button>
+            <button className="submit">Enviar</button>
             <span id="image-loader">
               <img alt src="images/loader.gif" />
             </span>
