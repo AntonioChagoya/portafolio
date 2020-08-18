@@ -16,7 +16,7 @@ export default class header extends Component {
             <li>
               <blockquote>
                 <p>
-                  Nunca lo he visto triste o con mala actitud, es proactivo y siempre muy sonriente por eso es agradable trabajar con el, se contagia.
+                  Nunca lo he visto triste o con mala actitud, es proactivo y siempre muy sonriente por eso es agradable trabajar con el, se contagia su buena onda. 
                 </p>
                 <cite>Akza - Conektica</cite>
               </blockquote>
@@ -25,9 +25,9 @@ export default class header extends Component {
             <li>
               <blockquote>
                 <p>
-                  Mi página quedó increible, Antonio siempre fue muy amable y hasta la fecha sigo trabajando con el en distintos proyectos.
+                  Mi página quedó increible, Antonio siempre fue muy amable y profesional además su estrategía de google ads ayudó mucho a mi negocio cuando comenzaron las dificultades por el covid. 
                 </p>
-                <cite>Mr. Adobe</cite>
+                <cite>Sra. Serpico</cite>
               </blockquote>
             </li>{" "}
             {/* slide ends */}

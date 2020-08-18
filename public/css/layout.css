@@ -677,7 +677,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 3px;
    color: #fff;
 }
-#testimonials h1 span { display: block!important; }
+#testimonials h1 span { display: none!important; }
 #testimonials .header-col {   padding-top: 9px; }
 #testimonials .header-col h1:before {
    font-family: 'FontAwesome';

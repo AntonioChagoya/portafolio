@@ -167,7 +167,7 @@ export default class header extends Component {
         </span>
       </div>
       <div className="link-box">
-        <a href="https://bombasolar.com.mx/">Ver</a>
+        <a href="https://bombasolar.com.mx/" target="_blank">Ver</a>
         <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
