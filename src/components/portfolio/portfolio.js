@@ -321,7 +321,7 @@ export default class header extends Component {
         </span>
       </div>
       <div className="link-box">
-        <a href="http://www.behance.net" target="_blank">Ver</a>
+        <a href="https://ayuda.conektica.com/" target="_blank">Ver</a>
         <a className="popup-modal-dismiss">Cerrar</a>
       </div>
     </div>
