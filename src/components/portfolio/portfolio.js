@@ -203,7 +203,7 @@ export default class header extends Component {
       <div className="description-box">
         <h4>Abasto Deli</h4>
         <p>
-        Absto Deli es una empresa con más de 17 años trabajando para brindar a sus clientes productos innovadores con la más alta calidad, frescura y buscando siempre precios competitivos que permitan obtener el mayor beneficio posible.
+        Absto Deli es una empresa con más de 17 años trabajando para brindar a sus clientes productos innovadores con la más alta calidad, frescura y buscando siempre precios competitivos.
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
