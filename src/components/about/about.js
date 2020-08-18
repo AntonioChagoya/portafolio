@@ -29,7 +29,7 @@ export default class header extends Component {
             <br />
             <span>(222) 739 0912</span>
             <br />
-            <span>antonio.chagoya.compras@hotmail.com</span>
+            <span>ventas@antoniochagoya.com.mx</span>
           </p>
         </div>
         <br></br>
@@ -37,7 +37,7 @@ export default class header extends Component {
           <p>
             <a href="https://github.com/AntonioChagoya/portafolio/raw/master/src/Portafolio-AntonioRodriguezChagoya.pdf" className="button" download="Portafolio-AntonioRodriguezChagoya.pdf">
               <i className="fa fa-download" />
-              Descargar CV
+              Descargar Portafolio
             </a>
           </p>
         </div>

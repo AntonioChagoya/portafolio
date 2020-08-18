@@ -7,7 +7,7 @@ export default class header extends Component {
   <div className="row section-head">
     <div className="two columns header-col">
       <h1>
-        <span>Get In Touch.</span>
+        <span>¡Contáctame!</span>
       </h1>
     </div>
     <div className="ten columns">
@@ -93,7 +93,7 @@ export default class header extends Component {
           <br />
           Antonio Rodríguez Chagoya
           <br />Puebla, Pue. México
-          antonio.chagoya.compras@hotmail.com
+          ventas@antoniochagoya.com.mx
           <br />
           <span>(222)739-0912</span>
         </p>

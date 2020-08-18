@@ -5,7 +5,7 @@ export default class header extends Component {
         <section id="portfolio">
   <div className="row">
     <div className="twelve columns collapsed">
-      <h1>Algo de mi trabajo</h1>
+      <h1>Portafolio</h1>
       {/* portfolio-wrapper */}
       <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
         <div className="columns portfolio-item">
@@ -130,11 +130,11 @@ export default class header extends Component {
         <div className="columns portfolio-item">
           <div className="item-wrap">
             <a href="#modal-08" title>
-              <img alt src="images/portfolio/retrocam.jpg" />
+              <img alt src="images/portfolio/base-conocimiento.jpg" />
               <div className="overlay">
                 <div className="portfolio-item-meta">
-                  <h5>Retrocam</h5>
-                  <p>Web Development</p>
+                  <h5>Base de conocimiento</h5>
+                  <p>Documentación</p>
                 </div>
               </div>
               <div className="link-icon">
@@ -159,9 +159,7 @@ export default class header extends Component {
       <div className="description-box">
         <h4>Bomba solar</h4>
         <p>
-          Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-          lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-          sem nibh id elit.
+          Líderes en la venta de paneles solares, SAAS Energy se distingue por su cálidad e inovación, sin duda una de las mejores opciones para la implementación de energías renovables.
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
@@ -183,9 +181,7 @@ export default class header extends Component {
       <div className="description-box">
         <h4>IME Puebla</h4>
         <p>
-          Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-          lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-          sem nibh id elit.
+        IME Puebla ofrece todo tipo de soluciones en el sector industrial y comercial enfocados en el mantenimiento de acuerdo con las necesidades del proyecto, de principio a fin.
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
@@ -207,9 +203,7 @@ export default class header extends Component {
       <div className="description-box">
         <h4>Abasto Deli</h4>
         <p>
-          Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-          lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-          sem nibh id elit.
+        Absto Deli es una empresa con más de 17 años trabajando para brindar a sus clientes productos innovadores con la más alta calidad, frescura y buscando siempre precios competitivos que permitan obtener el mayor beneficio posible.
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
@@ -231,9 +225,7 @@ export default class header extends Component {
       <div className="description-box">
         <h4>Serpico seguridad</h4>
         <p>
-          Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-          lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-          sem nibh id elit.
+        La hospitalidad, la atención y el compromiso con su gente, definen a Serpico. Con 15 años de trayectoria ofrecen servicios de seguridad especializados de muy alto nivel 
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
@@ -255,9 +247,7 @@ export default class header extends Component {
       <div className="description-box">
         <h4>MH Kids</h4>
         <p>
-          Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-          lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-          sem nibh id elit.
+        Clínica especializada en tratamientos odontológicos expertos en Odontopediatría con profesionales en atender la salud y desarrollo buco dental de los niños desde prenatal hasta adolescencia.
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
@@ -278,10 +268,8 @@ export default class header extends Component {
       />
       <div className="description-box">
         <h4>Gazele</h4>
-        <p>
-          Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-          lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-          sem nibh id elit.
+        <p> 
+        Gazele es una empresa en la Ciudad de Puebla, dedicada al suministro y comercialización de todo tipo de equipo para la seguridad industrial y comercial.
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
@@ -303,9 +291,7 @@ export default class header extends Component {
       <div className="description-box">
         <h4>Abarrote de diseño</h4>
         <p>
-          Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-          lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-          sem nibh id elit.
+        En Abarrote de diseño quieren ser la empresa oaxaqueña y mexicana más rifada, con un alto grado de competitividad, pero sobre todo, la más querida por su identidad popular y propuesta creativa de productos y servicios a nivel nacional e internacional.
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
@@ -321,19 +307,17 @@ export default class header extends Component {
     <div id="modal-08" className="popup-modal mfp-hide">
       <img
         className="scale-with-grid"
-        src="images/portfolio/modals/m-retrocam.jpg"
+        src="images/portfolio/modals/m-base-conocimiento.jpg"
         alt
       />
       <div className="description-box">
-        <h4>Retrocam</h4>
+        <h4>Base de conocimiento</h4>
         <p>
-          Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,
-          lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis
-          sem nibh id elit.
+          Proponer ideas y emprender dentro de una empresa es igual de importante que hacer un buen trabajo, la implementación de una base de conocimiento, nos ahorro  horas para el seguimiento y atención a nuestros clientes.
         </p>
         <span className="categories">
           <i className="fa fa-tag" />
-          Webdesign, Photography
+          Base de información, React
         </span>
       </div>
       <div className="link-box">
