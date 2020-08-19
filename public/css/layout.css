@@ -657,7 +657,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/header-background.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -677,10 +677,10 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 3px;
    color: #fff;
 }
-#testimonials h1 span { display: none!; }
-@media(min-width:765px){
+#testimonials h1 span { display: none}
+@media(max-width: 760px){
    #testimonials h1 span{
-      display:block!important;
+      display: block!important  ;
    }
 }
 #testimonials .header-col {   padding-top: 9px; }

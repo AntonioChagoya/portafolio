@@ -27,7 +27,7 @@ export default class header extends Component {
                 {/* item end */}
                 <div className="row item">
                   <div className="twelve columns">
-                    <h3>Estudiante solitario</h3>
+                    <h3>Internet</h3>
                     <p className="info">
                       Conocimiento autodidacta <span>•</span>{" "}
                       <em className="date">Siempre</em>
@@ -69,7 +69,7 @@ export default class header extends Component {
                     <h3>Experiencia Freelance</h3>
                     <p className="info">
                       Diseño y desarrollo <span>•</span>{" "}
-                      <em className="date">Enero 2020 - Presente</em>
+                      <em className="date">Presente</em>
                     </p>
                     <p>
                     También he concluido con éxito proyectos para clientes que me contratan de manera freelance, esto supone una gran ventaja para mis clientes ya que pueden acceder a páginas web profesionales con costos más bajos que los de una agencia y con una calidad equiparable.
