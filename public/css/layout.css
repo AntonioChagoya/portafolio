@@ -848,7 +848,13 @@ ul#nav li.current a { color: #F06000; }
 
 
 /* contact form */
-#contact form { margin-bottom: 30px; }
+ #contact form { 
+   background: #ebeeee;  
+   padding: 35px;
+   border-radius: 1px;
+} 
+
+
 #contact label {
    font: 15px/24px 'opensans-bold', sans-serif;
    margin: 12px 0;
@@ -1021,5 +1027,3 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
-
-/* Hubspot */

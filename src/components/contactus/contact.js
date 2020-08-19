@@ -1,5 +1,6 @@
-import React, { Component } from 'react'
-import HubspotForm from 'react-hubspot-form'
+import React, { Component } from 'react';
+import HubspotForm from 'react-hubspot-form';
+
 export default class header extends Component {
   render() {
     return (
@@ -18,9 +19,19 @@ export default class header extends Component {
   </div>
   <div className="row">
     <div className="eight columns">
+
+<form>
+<HubspotForm        
+        portalId='8274838'
+        formId='ef87ada1-440f-401c-8ba1-a869dedda1c7'
+        cssClass= 'hubspottony'
+        />
+</form>
+    
+
       {/* form */}
      
-      <form action method="post" id="contactForm" name="contactForm">
+      {/* <form action method="post" id="contactForm" name="contactForm">
         <fieldset>
           <div>
             <label htmlFor="contactName">
@@ -75,7 +86,7 @@ export default class header extends Component {
             </span>
           </div>
         </fieldset>
-      </form>{" "} 
+      </form> */}{" "} 
       {/* Form End */}
       {/* contact-warning */}
       <div id="message-warning"> Error boy</div>
@@ -126,6 +137,8 @@ export default class header extends Component {
           </li>
         </ul>
       </div> */}
+         
+
     </aside>
   </div>
 </section>
