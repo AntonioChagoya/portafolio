@@ -40,6 +40,8 @@ header {
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
+   background-attachment: fixed;
+   background-position: bottom;
 }
 
 /* vertically center banner section */
@@ -657,11 +659,11 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/header-background.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/moon-testimonials.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
-
+   background-position:  center;
    position: relative;
    min-height: 200px;
    width: 100%;
